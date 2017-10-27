@@ -1,0 +1,26 @@
+{
+  "name": "redfish-app",
+  "version": "1.0.0",
+  "description": "A sample app to show hard-drives on Dell & HP servers via redfish protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themadrussian/redfish-app.git"
+  },
+  "keywords": [
+    "redfish",
+    "dell",
+    "hp",
+    "server",
+    "storage"
+  ],
+  "author": "Mark Rogov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themadrussian/redfish-app/issues"
+  },
+  "homepage": "https://github.com/themadrussian/redfish-app#readme"
+}
